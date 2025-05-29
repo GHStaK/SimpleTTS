@@ -1,9 +1,0 @@
-{
-  "author": ["스탁"],
-  "install_msg": "SimpleTTS 커스텀 TTS 코그입니다.",
-  "name": "SimpleTTS",
-  "short": "음성채널 실시간 TTS",
-  "description": "gTTS를 이용해 음성채널로 TTS를 송출하는 코그입니다.",
-  "requirements": [],
-  "tags": ["tts", "voice", "korean"]
-}
